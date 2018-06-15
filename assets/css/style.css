@@ -136,68 +136,68 @@ a {
 
     @media only screen and (max-width: 980px) {
         body {
-            width: 980px;
+            width: 100%;
         }
 
         #content {
-            width: 980px;
+            width: 100%;
         }
 
         #header {
-            width: 980px;
+            width: 100%;
         }
 
         #footer {
-            width: 980px;
+            width: 100%;
         }
 
         #main {
-            width: 980px;
+            width: 100%;
         }
     }
 
     @media only screen and (max-width: 768px) {
         body {
-            width: 768px;
+            width: 80%;
         }
 
         #content {
-            width: 768px;
+            width: 80%;
         }
 
         #header {
-            width: 768px;
+            width: 80%;
         }
 
         #footer {
-            width: 768px;
+            width: 80%;
         }
 
         #main {
-            width: 768px;
+            width: 80%;
         }
     }
 
     @media only screen and (max-width: 640px) {
         body {
-            width: 640px;
+            width: 80%
         }
 
         #content {
-            width: 640px;
+            width: 60%;
         }
 
         #header {
-            width: 640px;
+            width: 60%;
             position: static;
             clear: both;
         }
 
         #footer {
-            width: 640px;
+            width: 80%;
         }
 
         #main {
-            width: 640px;
+            width: 60%;
         }
     }
